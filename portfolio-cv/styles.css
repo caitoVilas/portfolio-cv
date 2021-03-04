@@ -449,6 +449,11 @@ progress::-moz-progress-bar{
 .text-center{
     text-align: center;
 }
+
+.text-reco{
+    color: #000;
+    text-decoration: none;
+}
 .text-rigth{
     text-align: right;
 }
