@@ -2,4 +2,4 @@
 
 ##Proyectos
 
-[Landing Page de tipo Potrtfolio-CV](https://caitoVilas.github.io/portfolio-cv/portfolio-cv)
+[Landing Page de tipo Potrtfolio-CV](https://caitoVilas.github.io/portfolio-cv)
